@@ -30,8 +30,8 @@ Users should be able to:
 ### Screenshot
 
 
-![./screenshot-desktop.jpg](./screenshot-desktop.jpg)
-![screenshot-desktop-activity](./screenshot-desktop-activity.jpg)
+![./screenshot-desktop.png](./screenshot-desktop.png)
+![screenshot-desktop-activity.png](./screenshot-desktop-activity.png)
 ![](./screenshot-mobile.jpg)
 ![](./screenshot-mobile-activity.jpg)
 
