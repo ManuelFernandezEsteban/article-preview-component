@@ -31,7 +31,7 @@ Users should be able to:
 
 
 ![./screenshot-desktop.jpg](./screenshot-desktop.jpg)
-![](./screenshot-desktop-activity.jpg)
+![screenshot-desktop-activity](./screenshot-desktop-activity.jpg)
 ![](./screenshot-mobile.jpg)
 ![](./screenshot-mobile-activity.jpg)
 
