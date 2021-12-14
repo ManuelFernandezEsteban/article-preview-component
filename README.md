@@ -30,10 +30,17 @@ Users should be able to:
 ### Screenshot
 
 
+<<<<<<< HEAD
 ![](./screenshot-desktop.png)
 ![](./screenshot-desktop-activity.png)
 ![](./screenshot-mobile.png)
 ![](./screenshot-mobile-activity.png)
+=======
+![./screenshot-desktop.png](./screenshot-desktop.png)
+![screenshot-desktop-activity.png](./screenshot-desktop-activity.png)
+![](./screenshot-mobile.jpg)
+![](./screenshot-mobile-activity.jpg)
+>>>>>>> 871112ce42706841151dcd8583c099fa25575438
 
 
 ### Links
