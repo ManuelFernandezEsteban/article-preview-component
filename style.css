@@ -1,0 +1,234 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&display=swap");
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Manrope;
+  font-size: 13px;
+  height: 800px;
+  width: 600px;
+}
+
+main {
+  width: 600px;
+  height: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.wrap {
+  width: 375px;
+  height: 670px;
+  background-color: #ecf2f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+}
+
+.card {
+  height: 515px;
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.card-image {
+  width: 325px;
+  height: 200px;
+}
+.card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.card-content h2 {
+  font-size: 16px;
+  margin-left: 34px;
+  margin-right: 34px;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  line-height: 24px;
+  color: #48556a;
+}
+.card-content p {
+  margin-left: 34px;
+  margin-right: 34px;
+  margin-bottom: 0px;
+  line-height: 22px;
+  color: #6d7f97;
+}
+
+.card-foot {
+  display: flex;
+  flex-direction: row;
+  align-self: baseline;
+  margin-top: 25px;
+  justify-content: space-between;
+}
+
+.nombreFoto {
+  margin-left: 34px;
+  display: flex;
+  flex-direction: row;
+}
+.nombreFoto .name {
+  display: flex;
+  flex-direction: column;
+  margin-left: 15px;
+}
+.nombreFoto .name .nombre {
+  color: #48556a;
+  font-weight: bolder;
+}
+.nombreFoto .name .fecha {
+  color: #6d7f97;
+}
+.nombreFoto img {
+  width: 40px;
+  border-radius: 50%;
+}
+
+.boxRRSS {
+  margin-right: 34px;
+  align-self: center;
+  background-color: #ecf2f8;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+.boxRRSS i {
+  align-self: center;
+}
+
+.rrss {
+  height: 65px;
+  background-color: #48556a;
+  margin-top: 20px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: #ecf2f8;
+}
+
+.rrss-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex: 1;
+  margin-right: 55px;
+}
+.rrss-box span {
+  margin-left: 34px;
+  letter-spacing: 2px;
+}
+
+.hide {
+  display: none;
+}
+
+@media (min-width: 1440px) {
+  body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Manrope;
+    font-size: 13px;
+    height: 800px;
+    width: 1440px;
+  }
+
+  main {
+    width: 1440px;
+    height: 800px;
+  }
+
+  .wrap {
+    width: 1440px;
+    height: 800px;
+    background-color: #ecf2f8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+  }
+
+  .card {
+    height: 280px;
+    width: 730px;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    background-color: white;
+    border-radius: 10px;
+  }
+
+  .card-image {
+    width: 285px;
+    height: 280px;
+  }
+  .card-image img {
+    width: 285px;
+    height: 280px;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 0px;
+  }
+
+  .card-foot {
+    margin-bottom: 20px;
+  }
+
+  .card-content h2 {
+    font-size: 20px;
+  }
+
+  .foot {
+    position: relative;
+  }
+
+  .rrss-box-desktop {
+    position: absolute;
+    right: -70px;
+    top: -60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #48556a;
+    color: #ecf2f8;
+    height: 55px;
+    width: 250px;
+    border-radius: 10px;
+  }
+  .rrss-box-desktop span {
+    letter-spacing: 3px;
+    margin-right: 15px;
+  }
+  .rrss-box-desktop i {
+    margin-right: 15px;
+  }
+
+  .hide {
+    display: none;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
