@@ -30,16 +30,16 @@ Users should be able to:
 ### Screenshot
 
 
-![](./screenshot-desktop.jpg)
-![](./screenshot-desktop-activity.jpg)
-![](./screenshot-mobile.jpg)
-![](./screenshot-mobile-activity.jpg)
+![](./screenshot-desktop.png)
+![](./screenshot-desktop-activity.png)
+![](./screenshot-mobile.png)
+![](./screenshot-mobile-activity.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/ManuelFernandezEsteban/article-preview-component.git)
+- Live Site URL: [Add live site URL here](https://manuelfernandezesteban.github.io/article-preview-component/)
 
 ## My process
 
